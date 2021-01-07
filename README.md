@@ -4,7 +4,7 @@ This will automatically steal all wifi profiles from a windows machine it's very
 ### ❗ What is this ?
 WIFISTEALER is an automated process to steal all credentials of all the wifi profiles existing on the machine and send them via FTP. It works on all windows versions.
 
-Video Proof: https://youtu.be/zEUFTFkMiMk
+Video Proof (To see this video you need to subscribe first and send me your e-mail address in https://t.me/ctoslab): https://youtu.be/zEUFTFkMiMk
 
 ### ⚙️ FEATURES
 
@@ -22,7 +22,7 @@ Video Proof: https://youtu.be/zEUFTFkMiMk
 
 <img src="/Screenshots/HowToUse.gif" width=700 align="center">
 
-To learn more please watch this video: https://youtu.be/zEUFTFkMiMk
+To learn more please watch this video (To see this video you need to subscribe first and send me your e-mail address in https://t.me/ctoslab): https://youtu.be/zEUFTFkMiMk
 
 ### 📡 HOW TO UPDATE
 
